@@ -1,8 +1,7 @@
-import Button from '~/components/Button';
 const App = () => {
   return (
     <div>
-      <Button />
+      <h1>App</h1>
     </div>
   );
 };
